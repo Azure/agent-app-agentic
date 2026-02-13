@@ -30,7 +30,7 @@ aiohttp==3.10.11
 # asyncio==3.4.3
 
 # NL2SQL dependencies
-sqlparse==0.5.1
+sqlparse==0.5.4
 pyodbc==5.1.0
 
 # Utility dependencies
