@@ -1,3 +1,9 @@
+> [!WARNING]
+> **This repository is retired and no longer actively supported.**
+> As of **October 7, 2026**, `gpt-rag-agentic` is no longer maintained. It will not receive new features, bug fixes, security updates, or responses to issues and pull requests.
+> The code remains available for reference only. If you are still using it, please plan to migrate or fork it at your own discretion.
+> For the current, actively maintained solution, see [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone).
+
 # Enterprise RAG Agentic Orchestrator
 
 Part of [GPT-RAG](https://aka.ms/gpt-rag)
